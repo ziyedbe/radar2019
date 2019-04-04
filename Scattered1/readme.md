@@ -4,7 +4,7 @@ Description : A lot of scattered pictures , do you think they give you a secret 
 
 ## Walkthrough
 
-We were given 571 pictures, on each of them written a caracter. I went through some of the images and figured out it's a base64 code. So the real challenge was extracting all the letters.
+We were given 576 pictures, on each of them written a caracter. I went through some of the images and figured out it's a base64 code. So the real challenge was extracting all the letters.
 
 To do that, i looked all around the internet and found a great tool called pytesseract. 
 Using it directly on the images didn't give accurate output. So i used a script to crop all the images.
