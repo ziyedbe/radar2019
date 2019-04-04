@@ -9,7 +9,7 @@ The first thing I did was factoring n using factordb.
 p=2045145391
 q=3704852779
 
-Then I wrote a simple script to retrive the clear message from all the cihpered texts
+Then I wrote a simple script to retrive the clear message from all the ciphered texts
 
 ```python
 n=7576962585305391589
