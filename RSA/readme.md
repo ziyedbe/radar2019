@@ -31,6 +31,7 @@ for i in content:
     msg+=ch
 print(msg)
 ```
+Every ciphered text gave a 6 digits number. That's why i used a,b and c in the script to extract every 2 digits and decode them using chr().
 
 The output of the script was 
 
